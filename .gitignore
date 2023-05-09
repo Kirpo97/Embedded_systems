@@ -1,0 +1,22 @@
+#ignore files build by intelFPGA_lite
+lab1/db/*
+lab1/incremental_db/*
+lab1/output_files/*
+lab1/simulation/modelsim/verilog_libs/*
+lab1/simulation/modelsim/rtl_work/*
+lab1/simulation/modelsim/gate_work/*
+*.bsf
+*.qfp
+*.qpf
+*.bdf
+*.bak*
+*.rpt
+*.qsf
+*.qws
+*.txt
+*.sft
+*.xrf
+*.do
+*.ini
+*.wlf
+*.
